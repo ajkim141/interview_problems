@@ -8,10 +8,8 @@ Links below to iPython Notebook viewer for my answers.
 
 - [Remove duplicate characters from String](http://nbviewer.ipython.org/github/ajkim141/interview_problems/blob/master/remove_duplicate_characters.ipynb)
 
-<<<<<<< HEAD
-- [Print the numbers 1 to 100 inclusive. If divisible by 3, print Crackle instead of the number. If divisible by 5, print Pop. If divisible by both 3 and 5, print CracklePop.](http://nbviewer.ipython.org/github/ajkim141/interview_problems/blob/master/snap.ipynb)
-=======
 - [Find the smallest number in a List](http://nbviewer.ipython.org/github/ajkim141/interview_problems/blob/master/min_in_list.ipynb)
 
 - [Return every third element in a List](http://nbviewer.ipython.org/github/ajkim141/interview_problems/blob/master/every_third_list.ipynb)
->>>>>>> origin/master
+
+- [Print the numbers 1 to 100 inclusive. If divisible by 3, print Crackle instead of the number. If divisible by 5, print Pop. If divisible by both 3 and 5, print CracklePop.](http://nbviewer.ipython.org/github/ajkim141/interview_problems/blob/master/snap.ipynb)
