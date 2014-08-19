@@ -16,4 +16,6 @@ Links below to iPython Notebook viewer for my answers.
 
 **Work-In-Progress Minesweeper**
 
+- [Minesweeper.py](https://github.com/ajkim141/interview_problems/blob/master/minesweeper.py) (unfinished)
+
 - [Minesweeper code tests](http://nbviewer.ipython.org/github/ajkim141/interview_problems/blob/master/minesweeper_test.ipynb)
