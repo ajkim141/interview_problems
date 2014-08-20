@@ -15,16 +15,14 @@ r7 = ["O","O","O","O","O","O","O"]
 game_board = [r1, r2, r3, r4, r5, r6, r7]
 
 # Draw the board
-
 def draw_grid(board):
-    #print ("    1    2    3    4    5    6    7")
-    interpret_row(board[0])
-    interpret_row(board[1])
-    interpret_row(board[2])
-    interpret_row(board[3])
-    interpret_row(board[4])
-    interpret_row(board[5])
-    interpret_row(board[6])
+    print ("   1   2   3   4   5   6   7")
+    rn = 1
+    for i in board:
+        print rn,
+        rn += 1
+        interpret_row(i)
+        print "\n"
 
 # Randomize mines
 # False: space has not been revealed
@@ -48,10 +46,14 @@ def random_mines(board):
 def interpret_row(row):
     for i in row:
         if not i[0]:
-            print "[O]", "\r"
+            print"[O]",
         else:
             if i[-1] == 0:
-                print "[ ]", "\r"
+                print"[ ]",
             else:
-                print "[X]", "\r"
+                print"[X]",
+
+
+# Output test
+draw_grid(random_mines(game_board))
 
