@@ -14,8 +14,4 @@ Links below to iPython Notebook viewer for my answers.
 
 - [Print the numbers 1 to 100 inclusive. If divisible by 3, print Crackle instead of the number. If divisible by 5, print Pop. If divisible by both 3 and 5, print CracklePop.](http://nbviewer.ipython.org/github/ajkim141/interview_problems/blob/master/snap.ipynb)
 
-**Work-In-Progress Minesweeper**
-
-- [Minesweeper.py](https://github.com/ajkim141/interview_problems/blob/master/minesweeper.py) (unfinished)
-
-- [Minesweeper code tests](http://nbviewer.ipython.org/github/ajkim141/interview_problems/blob/master/minesweeper_test.ipynb)
+- [Command Line Minesweeper](https://github.com/ajkim141/interview_problems/blob/master/minesweeper.py)
